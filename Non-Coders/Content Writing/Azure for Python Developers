@@ -1,62 +1,10 @@
-Azure is in great demand among both large and small businesses since it is the best platform in terms of safety, security, and storage. Azure can be used in a variety of languages to make cloud services available and accessible to anyone who wants to create new solutions. Such that python developers should get their way to deploy major web apps, receive ML experiments, and a lot more to create on developers' circumstances, Microsoft offers Azure on python.
-
-
-Web apps, serverless apps, containers, and machine learning models may all be deployed to Azure using Python code. Use the Azure libraries (SDK) for Python to access the complete range of Azure services, including storage, databases, pre-built AI capabilities, and more.
-
-
-To get started with Azure on Python, here's a list of all the tools you can use:
-
-Visual Studio Code
-
-            Python is completely supported on Visual Studio Code thanks to the
-
-             Python extension, which is quite popular.
-
-      
-
-Azure CLI
-
-The Azure CLI is a cross-platform command-line interface for creating and configuring Azure resources in your subscriptions. One can pipe output straight to other command-line tools using the Azure CLI's query and filtering functionality. (The Azure CLI leverages the Azure SDK for Python and is developed in Python.)
-
-
-Azure Powershell
-
-Azure PowerShell, like the Azure CLI, offers PowerShell commands for creating and configuring Azure resources and may be used with the complete set of PowerShell capabilities.
-
-
-Visual Studio
-
-The Python Development and Data Science workloads (Visual Studio 2017 and later) and the free Python Tools for Visual Studio extension provide open-source support for the Python language in Visual Studio on Windows (Visual Studio 2015 and earlier). Visual Studio is the most popular choice among Python and C++ developers since it provides best-in-class cross-language development and debugging capabilities.
-
-
- Azure SDK for python
-
-The Azure SDK for Python is a Python API that allows you to connect with Azure from your code.
-
-
-With all of these tools, it is possible to construct and use many Azure services in Python. Focusing on the code of one's application results in wonderful achievements that benefit society and people's lives.
-
-
-Python supports a number of Azure services such as:
-
-
-Build and Deploy Python Web Apps in the cloud :
-
-
- Build apps faster, smoother and better with Azure. With a wide range of non-relational databases here we go creating optimized web apps . Forget about the infrastructure and just code passionately to get your best app on Azure.
-
-
-Head on in AI and ML with Azure:
-
-
-Build, train and host models for any python environment in python using Azure. Pre-built AI solutions can also be used to deliver cutting-edge experiences to python apps. Either use the SDK or tap into pre-built intelligent APIs for AI vision, speech, language, knowledge and search on a few lines of code. 
-
-
- DevOps & Dev tools:
-
-
-Visual Studio Code is the best for building and debugging python apps, it is the best and most compatible because of its absolutely no boundaries of platform and limitless customization options after you've finished in Visual Studio Code, go to your Git repository to build and test your Python apps. It seems simple, and it makes the process go more smoothly.
-
-
-Code in a few lines and work in bulk this is what python stands for and with Azure cloud, it grows even stronger, faster and smoother. Azure offers a wide range of services, including cloud services, app development, Kubernetes integration, customising AI bots, and constructing machine learning apps and models using app arcs, among other things. Azure has shown to be the greatest, quickest, and most favoured platform for all developers, including Python.
+[
+ {
+    "blogTitle": "Empowering App Development with API",
+    "sourceName" : "blogger.com",
+    "authorName": "Aditi Dwivedi",
+    "blogTags" : ["App Development","API","third-party"]
+    "link" : "https://aditidwivedi91011.blogspot.com/2022/10/empowering-app-development-with-apis.html"
+   }
+  ]
 
